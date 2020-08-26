@@ -137,6 +137,6 @@ int main(){
     }
 
     execute();
-    cout << row_cnt << endl;
+    cout << row_cnt-1 << endl;
     return 0;
 }
